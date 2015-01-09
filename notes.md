@@ -9,4 +9,11 @@
     * https://github.com/ropensci/taxize/blob/sql/R/sqlite_init.R
 * COL
     * http://www.catalogueoflife.org/content/annual-checklist-archive
-* 
+* ubio
+    * haven't found anything yet, maybe avail. if ask
+* theplantlist
+    * already available, via download csv files
+* tropicos
+    * haven't found anything yet, maybe avail. if ask
+* BOLD
+    * http://www.boldsystems.org/index.php/datarelease - but this seems like its just barcode data, not the names database...
